@@ -3,7 +3,3 @@ pandas
 Numpy
 pymongo
 certifi
-
-
-
-## -e . Connects to Setup.py
