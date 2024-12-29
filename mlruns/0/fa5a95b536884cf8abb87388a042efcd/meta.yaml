@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaymehta/Desktop/NetworkSecurity/mlruns/0/fa5a95b536884cf8abb87388a042efcd/artifacts
+end_time: 1735452803126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa5a95b536884cf8abb87388a042efcd
+run_name: loud-smelt-51
+run_uuid: fa5a95b536884cf8abb87388a042efcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735452801781
+status: 3
+tags: []
+user_id: jaymehta
